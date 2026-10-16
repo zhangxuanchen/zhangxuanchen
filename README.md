@@ -1,4 +1,4 @@
-# 你好，我是 zhangxuanchen 👋
+# 我是 zhangxuanchen 👋
 
 **前大厂高级工程师（P7）｜独立构建自托管 AI Agent 基础设施**
 我关注一件事：**怎么把 AI Agent 从 Demo 真正做到生产可用。**
