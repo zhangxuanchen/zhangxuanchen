@@ -24,5 +24,4 @@
 
 ## 🔗 链接
 - 小红书（AI Agent 实战）：https://www.xiaohongshu.com/user/profile/645ef34b0000000029011e88
-- 技术博客：【待填：掘金 / 知乎 / 公众号，没有可先删这行】
 - 邮箱：zhangxuanchen@126.com
